@@ -1,1 +1,1 @@
-print("Your band name could be " + input("What is your birth month?") + " " + input("What is your favourite animal? "))
+print("Your band name could be " + input("What is your birth month?\n") + " " + input("What is your favourite animal?\nNo "))
